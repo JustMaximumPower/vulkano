@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Flags","Flags to pass when creating a command buffer."],["Kind","Determines the kind of command buffer that we want to create."]],"struct":[["BufferCopyRegion","A copy between two buffers."],["UnsafeCommandBuffer",""],["UnsafeCommandBufferBuilder",""]]});
